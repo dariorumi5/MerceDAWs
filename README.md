@@ -1,4 +1,4 @@
-Sistema de Gestión de un Taller de Vehículos – Actividad 6.3
+Sistema de Gestión de un Taller de Vehículos:
 
 Este proyecto consiste en el desarrollo de una aplicación para la gestión integral de un taller mecánico, permitiendo administrar clientes, vehículos y reparaciones de forma eficiente utilizando los principios de la Programación Orientada a Objetos (POO).
 
